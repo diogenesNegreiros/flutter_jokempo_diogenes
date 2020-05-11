@@ -1,6 +1,15 @@
 # flutterjokempodiogenes
 
-A new Flutter application.
+Código fonte Na linguagem Dart usando flutter e android studio, exercício feito na aula do prof. Jamilton na plataforma de ensino udemy.
+Um jogo simples do classico papel, pedra ou tesoura.
+
+<h1>Telas</h1>
+
+<p>
+
+<img src="preview1.png "width="350"/>
+<img src="preview2.png "width="350"/>
+</p>
 
 ## Getting Started
 
