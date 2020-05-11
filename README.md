@@ -7,8 +7,8 @@ Um jogo simples do classico papel, pedra ou tesoura.
 
 <p>
 
-<img src="preview1.png "width="350"/>
-<img src="preview2.png "width="350"/>
+<img src= "preview1.png" width= "200"/>
+<img src= "preview2.png" width= "200"/>
 </p>
 
 ## Getting Started
